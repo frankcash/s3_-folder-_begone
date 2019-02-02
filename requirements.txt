@@ -1,0 +1,5 @@
+awscli==1.16.96
+boto3==1.9.86
+botocore==1.12.86
+flake8==3.7.4
+pyyaml<=3.13,>=3.10
